@@ -13,6 +13,7 @@
               <a class="site_link" href="index.html"><img src="assets/images/logo/site_logo.svg" alt="Collab - Online Learning Platform" /><span>Collab</span></a>
             </div>
           </div>
+
           <div class="col col-lg-6 col-2">
             <nav class="main_menu navbar navbar-expand-lg">
               <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
